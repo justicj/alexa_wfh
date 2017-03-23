@@ -1,0 +1,19 @@
+{
+  "name": "wfh-excuse-generator",
+  "version": "1.0.0",
+  "description": "First Version of the WFH Escuse Generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "fact"
+  ],
+  "author": "Jason Justice",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7"
+  }
+}

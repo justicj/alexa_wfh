@@ -1,0 +1,14 @@
+GetNewExcuseIntent for an Excuse
+GetNewExcuseIntent for a Excuse
+GetNewExcuseIntent a Excuse
+GetNewExcuseIntent an Excuse
+GetNewExcuseIntent a space Excuse
+GetNewExcuseIntent an space Excuse
+GetNewExcuseIntent tell me a Excuse
+GetNewExcuseIntent tell me an Excuse
+GetNewExcuseIntent give me a Excuse
+GetNewExcuseIntent give me an Excuse
+GetNewExcuseIntent tell me something
+GetNewExcuseIntent give me something
+GetNewExcuseIntent what is my excuse today
+GetNewExcuseIntent I'm feeling lazy

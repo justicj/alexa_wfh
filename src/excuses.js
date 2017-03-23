@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-    "en": {
+    "en-US": {
         "translation": {
             "EXCUSES": [
                 "Doctors appointment.",
